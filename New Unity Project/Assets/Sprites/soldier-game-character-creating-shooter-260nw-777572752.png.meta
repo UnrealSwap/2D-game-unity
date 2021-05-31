@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 041cf23fa61bbb840ac9ddda6d68103d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241598469209425000
+    second: soldier-game-character-creating-shooter-260nw-777572752_0
+  - first:
+      213: 8725156293468493693
+    second: soldier-game-character-creating-shooter-260nw-777572752_1
+  - first:
+      213: -965562554928054781
+    second: soldier-game-character-creating-shooter-260nw-777572752_2
+  - first:
+      213: 2314608696638705411
+    second: soldier-game-character-creating-shooter-260nw-777572752_3
+  - first:
+      213: -654135171836637052
+    second: soldier-game-character-creating-shooter-260nw-777572752_4
+  - first:
+      213: 6265581200428179036
+    second: soldier-game-character-creating-shooter-260nw-777572752_5
+  - first:
+      213: 3443134284483344278
+    second: soldier-game-character-creating-shooter-260nw-777572752_6
+  - first:
+      213: 5992504637821201797
+    second: soldier-game-character-creating-shooter-260nw-777572752_7
+  - first:
+      213: 7189521676380464444
+    second: soldier-game-character-creating-shooter-260nw-777572752_8
+  - first:
+      213: 2486301043789721696
+    second: soldier-game-character-creating-shooter-260nw-777572752_9
+  - first:
+      213: -5378132521727484338
+    second: soldier-game-character-creating-shooter-260nw-777572752_10
+  - first:
+      213: 4863020151325760299
+    second: soldier-game-character-creating-shooter-260nw-777572752_11
+  - first:
+      213: 4774740111304945281
+    second: soldier-game-character-creating-shooter-260nw-777572752_12
+  - first:
+      213: -8180046860079442036
+    second: soldier-game-character-creating-shooter-260nw-777572752_13
+  - first:
+      213: -6219750762333468963
+    second: soldier-game-character-creating-shooter-260nw-777572752_14
+  - first:
+      213: -3728755858548617387
+    second: soldier-game-character-creating-shooter-260nw-777572752_15
+  - first:
+      213: -2297767917532578621
+    second: soldier-game-character-creating-shooter-260nw-777572752_16
+  - first:
+      213: -1789698115797601361
+    second: soldier-game-character-creating-shooter-260nw-777572752_17
+  - first:
+      213: -2106805128294567249
+    second: soldier-game-character-creating-shooter-260nw-777572752_18
+  - first:
+      213: 2581515663400525163
+    second: soldier-game-character-creating-shooter-260nw-777572752_19
+  - first:
+      213: 2505139533922062259
+    second: soldier-game-character-creating-shooter-260nw-777572752_20
+  - first:
+      213: 7953952190445964095
+    second: soldier-game-character-creating-shooter-260nw-777572752_21
+  - first:
+      213: 677597287950715693
+    second: soldier-game-character-creating-shooter-260nw-777572752_22
+  - first:
+      213: 2517578475406897083
+    second: soldier-game-character-creating-shooter-260nw-777572752_23
+  - first:
+      213: 993600980716622561
+    second: soldier-game-character-creating-shooter-260nw-777572752_24
+  - first:
+      213: -421289265093055696
+    second: soldier-game-character-creating-shooter-260nw-777572752_25
+  - first:
+      213: 2847642277718779249
+    second: soldier-game-character-creating-shooter-260nw-777572752_26
+  - first:
+      213: 3694622314393945919
+    second: soldier-game-character-creating-shooter-260nw-777572752_27
+  - first:
+      213: -5753909876796811656
+    second: soldier-game-character-creating-shooter-260nw-777572752_28
+  - first:
+      213: 7286592344962875816
+    second: soldier-game-character-creating-shooter-260nw-777572752_29
+  - first:
+      213: -1324218988714008074
+    second: soldier-game-character-creating-shooter-260nw-777572752_30
+  - first:
+      213: -255149247254019715
+    second: soldier-game-character-creating-shooter-260nw-777572752_31
+  - first:
+      213: -4756006445562677641
+    second: soldier-game-character-creating-shooter-260nw-777572752_32
+  - first:
+      213: 663077930154416403
+    second: soldier-game-character-creating-shooter-260nw-777572752_33
+  - first:
+      213: 2803511051151145114
+    second: soldier-game-character-creating-shooter-260nw-777572752_34
+  - first:
+      213: -4724371944335144195
+    second: soldier-game-character-creating-shooter-260nw-777572752_35
+  - first:
+      213: 4918525704970619688
+    second: soldier-game-character-creating-shooter-260nw-777572752_36
+  - first:
+      213: 4767652420400502263
+    second: soldier-game-character-creating-shooter-260nw-777572752_37
+  - first:
+      213: -6875720907513992100
+    second: soldier-game-character-creating-shooter-260nw-777572752_38
+  - first:
+      213: -8698080168888952139
+    second: soldier-game-character-creating-shooter-260nw-777572752_39
+  - first:
+      213: -8635134307744911265
+    second: soldier-game-character-creating-shooter-260nw-777572752_40
+  - first:
+      213: -7291238745105404147
+    second: soldier-game-character-creating-shooter-260nw-777572752_41
+  - first:
+      213: -1394034847760187848
+    second: soldier-game-character-creating-shooter-260nw-777572752_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86489d30dbc9e9650800000000000000
+      internalID: 6241598469209425000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7714f9cb6bf51970800000000000000
+      internalID: 8725156293468493693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 229
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3819d8f1a992f0800000000000000
+      internalID: -965562554928054781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 229
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0e25a8542f1020800000000000000
+      internalID: 2314608696638705411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809697e68b0ce6f0800000000000000
+      internalID: -654135171836637052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e13e2c7e0d3f650800000000000000
+      internalID: 6265581200428179036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973994a36878cf20800000000000000
+      internalID: 3443134284483344278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da63ce737a92350800000000000000
+      internalID: 5992504637821201797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 181
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e0a97fdf46c360800000000000000
+      internalID: 7189521676380464444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 181
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f4c750ad118220800000000000000
+      internalID: 2486301043789721696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e157f47f80d55b0800000000000000
+      internalID: -5378132521727484338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b965fef0bec7340800000000000000
+      internalID: 4863020151325760299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee32565d8434240800000000000000
+      internalID: 4774740111304945281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 133
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875ae278b2aa7e80800000000000000
+      internalID: -8180046860079442036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 133
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd606a3a2a10fa9a0800000000000000
+      internalID: -6219750762333468963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 133
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8d0d6d4cc04cc0800000000000000
+      internalID: -3728755858548617387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7e2bc040bc10e0800000000000000
+      internalID: -2297767917532578621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b2b0cb07b927e0800000000000000
+      internalID: -1789698115797601361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f70de5ef13c2e0800000000000000
+      internalID: -2106805128294567249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d581381d263d320800000000000000
+      internalID: 2581515663400525163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4630222b04c220800000000000000
+      internalID: 2505139533922062259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc8f7106d126e60800000000000000
+      internalID: 7953952190445964095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b0211b42f476900800000000000000
+      internalID: 677597287950715693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2cc0e84c30f220800000000000000
+      internalID: 2517578475406897083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21810e3daf9cd00800000000000000
+      internalID: 993600980716622561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b617e35a7472af0800000000000000
+      internalID: -421289265093055696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175efca609bd48720800000000000000
+      internalID: 2847642277718779249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37cea48b6fe54330800000000000000
+      internalID: 3694622314393945919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761aebd3710620b0800000000000000
+      internalID: -5753909876796811656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c798b12d2f1560800000000000000
+      internalID: 7286592344962875816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1efd488dd6f9de0800000000000000
+      internalID: -1324218988714008074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7147b88c17857cf0800000000000000
+      internalID: -255149247254019715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b4ce06554ffdb0800000000000000
+      internalID: -4756006445562677641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31951454dd9b33900800000000000000
+      internalID: 663077930154416403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 32
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98feb7827218e620800000000000000
+      internalID: 2803511051151145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 32
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa05175fb8af6eb0800000000000000
+      internalID: -4724371944335144195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc667b11d124440800000000000000
+      internalID: 4918525704970619688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d082cd9a1a2240800000000000000
+      internalID: 4767652420400502263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce6e483488490a0800000000000000
+      internalID: -6875720907513992100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1189bb263a4780800000000000000
+      internalID: -8698080168888952139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5073171917d92880800000000000000
+      internalID: -8635134307744911265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6d61fdf050da90800000000000000
+      internalID: -7291238745105404147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier-game-character-creating-shooter-260nw-777572752_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efcbe11b467ace0800000000000000
+      internalID: -1394034847760187848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

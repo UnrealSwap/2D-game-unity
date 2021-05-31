@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 2f390d601c33b6f4d9c7bec34cb8b6b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7828975931224748102
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_0
+  - first:
+      213: -5660922631367242741
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_1
+  - first:
+      213: -4895729707134356614
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_2
+  - first:
+      213: -2163930684662941538
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_3
+  - first:
+      213: 7617768853740509166
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_4
+  - first:
+      213: -104767443365587727
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_5
+  - first:
+      213: -2862805496812947324
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_6
+  - first:
+      213: 8191078847794842539
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_7
+  - first:
+      213: -3471772567530036302
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_8
+  - first:
+      213: 5453289716428203150
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_9
+  - first:
+      213: -6545428542868264915
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_10
+  - first:
+      213: 4352017631281474076
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_11
+  - first:
+      213: 2056798034992929032
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_12
+  - first:
+      213: -3810314065859652079
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_13
+  - first:
+      213: -3584889202115116474
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_14
+  - first:
+      213: 1708723607865026405
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_15
+  - first:
+      213: 7930216240244686126
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_16
+  - first:
+      213: 1985347491191208182
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_17
+  - first:
+      213: -2209859475809252991
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_18
+  - first:
+      213: -249717467734663091
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_19
+  - first:
+      213: -1720999990134855159
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_20
+  - first:
+      213: -8283450536403727640
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_21
+  - first:
+      213: -948381490900206214
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_22
+  - first:
+      213: 3406043108031421429
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_23
+  - first:
+      213: 7636228572399406201
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_24
+  - first:
+      213: 5140735103751989729
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_25
+  - first:
+      213: -4450194565978115516
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_26
+  - first:
+      213: -3048027737938830058
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_27
+  - first:
+      213: 7408182404986567433
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_28
+  - first:
+      213: -1636142587508433188
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_29
+  - first:
+      213: 7595836569962628075
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_30
+  - first:
+      213: -7993165374384697370
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_31
+  - first:
+      213: 6823714782929739030
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_32
+  - first:
+      213: 8696686085353679162
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_33
+  - first:
+      213: -7159335061464284892
+    second: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640fbb7312c16ac60800000000000000
+      internalID: 7828975931224748102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc2601cdc5071b0800000000000000
+      internalID: -5660922631367242741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fde125cfde0cb0800000000000000
+      internalID: -4895729707134356614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f81ed18c28f1e0800000000000000
+      internalID: -2163930684662941538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7dc3c6960c7b960800000000000000
+      internalID: 7617768853740509166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41b2ab09acb8ef0800000000000000
+      internalID: -104767443365587727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 10
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bd6581954548d0800000000000000
+      internalID: -2862805496812947324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 10
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab070a50de8ca170800000000000000
+      internalID: 8191078847794842539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 9
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32d6b7e39c1dfc0800000000000000
+      internalID: -3471772567530036302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 9
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e846ef4ba1afdab40800000000000000
+      internalID: 5453289716428203150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2862af5b67f925a0800000000000000
+      internalID: -6545428542868264915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 203
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae4c84af8756c30800000000000000
+      internalID: 4352017631281474076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 207
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809997a5ae63b8c10800000000000000
+      internalID: 2056798034992929032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 206
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d2c58b8b0f1bc0800000000000000
+      internalID: -3810314065859652079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 207
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428bc4a34aef3ec0800000000000000
+      internalID: -3584889202115116474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 207
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676e12711b96b710800000000000000
+      internalID: 1708723607865026405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 204
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d71d787a9cd0e60800000000000000
+      internalID: 7930216240244686126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 201
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83a20460f5d8b10800000000000000
+      internalID: 1985347491191208182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189cbdcd3800551e0800000000000000
+      internalID: -2209859475809252991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 165
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4027714943d88cf0800000000000000
+      internalID: -249717467734663091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 160
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aaf8190a7cd18e0800000000000000
+      internalID: -1720999990134855159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 166
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea032fef954b0d80800000000000000
+      internalID: -8283450536403727640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 162
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d765b0f0ca6d2f0800000000000000
+      internalID: -948381490900206214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb51e72922b44f20800000000000000
+      internalID: 3406043108031421429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 162
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0e899d6559f960800000000000000
+      internalID: 7636228572399406201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a48f075f875740800000000000000
+      internalID: 5140735103751989729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 92
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423081de9bbd32c0800000000000000
+      internalID: -4450194565978115516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 92
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d5e96ebea33b5d0800000000000000
+      internalID: -3048027737938830058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 93
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bf588a5a62fc660800000000000000
+      internalID: 7408182404986567433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 93
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdedbad3cf04b49e0800000000000000
+      internalID: -1636142587508433188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be34b8cad15d96960800000000000000
+      internalID: 7595836569962628075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 284
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef09dc0172921190800000000000000
+      internalID: -7993165374384697370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ddb150174b2be50800000000000000
+      internalID: 6823714782929739030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-little-golem-character-sprites-animated-sprites-little-golem-character-creating-adventure-video-games-1169369952_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 286
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a698eae5d0b870800000000000000
+      internalID: 8696686085353679162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
